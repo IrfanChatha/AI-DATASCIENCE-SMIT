@@ -1,0 +1,41 @@
+Python Assignment 1
+
+Instructions
+1. Solve each question and test your code.
+2. Each question should be solved in a separate file.
+3. Create two folders:
+   - Conditional_Statements for Part 1 questions
+   - Loops for Part 2 questions
+4. Upload your completed assignment to GitHub.
+5. Write a LinkedIn post sharing your work and insights on this assignment.
+6. Submit both your GitHub repository URL and LinkedIn post URL in the Google Form (link to be shared soon).
+7. Deadline: 4 November, 2024
+
+---
+
+Part 2: Loops (20 Questions)
+
+1. Print numbers from 1 to 20 using a for loop.
+2. Use a while loop to print even numbers from 1 to 50.
+3. Write a program to calculate the sum of all numbers between 1 and 100.
+4. Print the multiplication table of a given number.
+5. Print all odd numbers between 1 and 100 using a loop.
+6. Use a for loop to print each character of a string.
+7. Find the factorial of a number using a while loop.
+8. Use a for loop to print numbers from 10 down to 1.
+9. Write a program to print the first 10 Fibonacci numbers.
+10. Use a loop to count the number of digits in an integer.
+11. Print the reverse of a given number.
+12. Print all prime numbers between 1 and 50.
+13. Use nested loops to print a pyramid pattern of *.
+14. Write a program that breaks the loop when a certain condition is met.
+15. Print the sum of even and odd numbers separately up to a given number.
+16. Create a program to calculate the sum of the digits of an inputted integer.
+17. Write a program that continues to ask for a number until the correct number is guessed.
+18. Use a loop to print numbers in reverse order within a given range.
+19. Use a for loop to print the square of each number from 1 to 10.
+20. Create a program that simulates a countdown timer starting from a given number down to zero.
+
+---
+
+These questions will reinforce concepts of conditional statements and loops. Please test your code thoroughly and ask for help in the discussion group if you have any questions.
